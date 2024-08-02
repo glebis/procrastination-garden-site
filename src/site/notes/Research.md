@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/research/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/research/"}
 ---
 
 # Research: Most Effective Interventions for Procrastination
 
 ## Table of Contents
-1. [Introduction](Introduction.md)
-2. [Definition of Procrastination](Definition_of_Procrastination.md)
-3. [Common Causes of Procrastination](Common_Causes_of_Procrastination.md)
-4. [Emotional Aspects of Procrastination](Emotional_Aspects_of_Procrastination.md)
+1. [[Introduction\|Introduction]]
+2. [[Definition_of_Procrastination\|Definition_of_Procrastination]]
+3. [[Common_Causes_of_Procrastination\|Common_Causes_of_Procrastination]]
+4. [[Emotional_Aspects_of_Procrastination\|Emotional_Aspects_of_Procrastination.md]]
 5. [Effective Interventions](Effective_Interventions.md)
 6. [Case Studies](Case_Studies.md)
 7. [Conclusion](Conclusion.md)
@@ -28,6 +28,26 @@ Understanding these aspects of procrastination is crucial for developing effecti
 
 ## [[History of Procrastination\|History of Procrastination]]
 
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/definition-of-procrastination/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+# Definition of Procrastination
+
+Procrastination is the act of delaying or postponing tasks or actions, often despite knowing that such delay may have negative consequences. It's important to understand that procrastination is not simply laziness or poor time management. Key points about procrastination include:
+
+1. Voluntary delay: Procrastination involves choosing to delay a task, even when we know we should be doing it.
+2. Irrational behavior: We procrastinate despite expecting to be worse off for the delay.
+3. Present bias: Procrastination often involves prioritizing short-term mood regulation over long-term goals.
+4. Task aversion: We tend to procrastinate more on tasks we find unpleasant or challenging.
+5. Intention-action gap: Procrastinators often have the intention to complete tasks but struggle to initiate action.
+
+Understanding these aspects of procrastination is crucial for developing effective strategies to overcome it. Recognizing procrastination as a complex behavior involving emotional, cognitive, and behavioral components can help individuals approach it more comprehensively and compassionately.
+
+
+</div></div>
 
 
 ## Definition of Procrastination
@@ -542,7 +562,6 @@ Future research should focus on:
 
 By examining these diverse case studies, we gain valuable insights into how different intervention strategies can be applied in real-world situations, their effectiveness, and the lessons learned from each case. This knowledge can inform more targeted and effective approaches to addressing procrastination across various life domains.
 
-## Conclusion
 
 ## Conclusion
 

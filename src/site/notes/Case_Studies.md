@@ -4,8 +4,6 @@
 
 # Case Studies
 
-[[Case_Studies\|Case studies]]
-
 ## Introduction to Case Studies
 
 Real-world examples provide invaluable insights into the practical application of procrastination interventions. This section presents a series of case studies that demonstrate successful strategies for overcoming procrastination in various contexts. These cases were selected based on their diversity in settings (academic, professional, creative, and personal health), the clarity of the intervention methods used, and the measurable outcomes achieved.
@@ -22,8 +20,6 @@ Each case study follows a consistent structure to facilitate comparison and anal
 
 ## Individual Case Studies
 
-[Individual case studies would be detailed here]
-
 ## Analysis of Common Themes
 
 Patterns Observed Across Case Studies:
@@ -33,7 +29,7 @@ Patterns Observed Across Case Studies:
 4. Social support and accountability played a significant role in maintaining motivation
 
 Most Effective Intervention Strategies:
-1. Time management techniques (e.g., Pomodoro Technique, GTD methodology)
+1. Time management techniques (e.g., [[Pomodoro Technique\|Pomodoro Technique]], GTD methodology)
 2. [[Cognitive Restructuring\|Cognitive reframing]] and [[Mindfulness practices\|mindfulness practices]]
 3. Clear goal-setting using frameworks like [[SMART Goals\|SMART Goals]]
 4. Creating accountability systems (e.g., support groups, progress sharing)
