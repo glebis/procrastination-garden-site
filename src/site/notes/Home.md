@@ -2,6 +2,10 @@
 {"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"]}
 ---
 
+Welcome. 
+
+## Glossary
+
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
